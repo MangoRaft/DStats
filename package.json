@@ -1,0 +1,24 @@
+{
+  "name": "dstats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/dstats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangoRaft/DStats.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MangoRaft/DStats/issues"
+  },
+  "homepage": "https://github.com/MangoRaft/DStats#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "flat": "^2.0.1",
+    "measured": "^1.1.0"
+  }
+}
