@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^2.1.4",
     "flat": "^2.0.1",
-    "measured": "^1.1.0"
+    "measured": "^1.1.0",
+    "statsd-metrics": "0.0.1"
   }
 }
